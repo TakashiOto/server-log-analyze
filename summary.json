@@ -1,0 +1,8 @@
+{
+  "total": 5,
+  "info": 2,
+  "warning": 1,
+  "error": 2,
+  "most_common_error": "Database connection failed",
+  "most_common_error_count": 2
+}
